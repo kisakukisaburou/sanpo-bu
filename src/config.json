@@ -5,5 +5,5 @@
   "logo_image_url": "https://kisakukisaburou.github.io/sanpo-bu/img/favicon.svg",
   "background_image_url": "https://kisakukisaburou.github.io/sanpo-bu/img/sanpo-bu4.png",
   "primary_color": "#999999",
-  "orderby": "distance"
+  "orderby": "time"
 }
