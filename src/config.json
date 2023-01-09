@@ -2,8 +2,8 @@
   "title": "さんぽぶ鎌倉マップ",
   "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」ウヘヘ!",
   "form_url": "",
-  "logo_image_url": "https://github.com/kisakukisaburou/sanpo-bu/tree/master/public/sanpo-bu4.png",
-  "background_image_url": "https://github.com/kisakukisaburou/sanpo-bu/tree/master/public/sanpo-bu4.png",
+  "logo_image_url": "http://kissablow.wp.xdomain.jp/wp-content/uploads/2023/01/さんぽぶ4.png",
+  "background_image_url": "http://kissablow.wp.xdomain.jp/wp-content/uploads/2023/01/さんぽぶ4.png",
   "primary_color": "#d2691e",
   "orderby": "distance"
 }
