@@ -1,4 +1,4 @@
-# Geolonia PWAマップ
+# さんぽぶ鎌倉マップ
 
 ## Geolonia PWAマップ について
 
