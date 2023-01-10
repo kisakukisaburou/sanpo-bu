@@ -3,7 +3,7 @@
   "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」ウヘヘ!鎌倉へ",
   "form_url": "",
   "logo_image_url": "https://kisakukisaburou.github.io/sanpo-bu/img/favicon.svg",
-  "background_image_url": "https://kisakukisaburou.github.io/sanpo-bu/kamakura19201080.png",
+  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
   "primary_color": "#999999",
   "orderby": "time"
 }
