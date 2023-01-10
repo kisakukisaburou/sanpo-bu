@@ -1,8 +1,8 @@
 # さんぽぶ鎌倉マップ
 
-## Geolonia PWAマップ について
+## さんぽぶ鎌倉マップ について
 
-Geolonia PWA は、GitHub と Google Sheets を使って、素早く PWA の地図アプリが作れるテンプレートです。
+さんぽぶ鎌倉マップはGeolonia PWAマップを利用しております。Geolonia PWA は、GitHub と Google Sheets を使って、素早く PWA の地図アプリが作れるテンプレートです。
 
 利用方法はこちらのマニュアルをご覧ください。
 
