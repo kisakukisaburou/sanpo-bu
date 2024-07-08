@@ -1,7 +1,36 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "status": "UNAVAILABLE"
-  }
+  "range": "'スポットデータ'!A1:J84",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "2022/05/11 14:46:34",
+      "鎌倉駅",
+      "https://kisakukisaburou.github.io/sanpo-bu/img/sanpo-bu4.png",
+      "35.32003587",
+      "139.5503262",
+      "鎌倉駅",
+      "我々さんぽぶのスタート地点です。"
+    ],
+    [
+      "2022/05/11 14:46:34",
+      "長谷寺",
+      "https://kisakukisaburou.github.io/sanpo-bu/img/sanpo-bu4.png",
+      "35.31240753",
+      "139.5333122",
+      "長谷寺",
+      "まだ行ったことないです。"
+    ]
+  ]
 }
